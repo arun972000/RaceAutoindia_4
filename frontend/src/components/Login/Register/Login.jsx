@@ -90,7 +90,7 @@ const LoginPage = ({ show, hide }) => {
                                                 <button type="submit" className="btn  btn-block mybtn btn-primary tx-tfm">Login</button>
                                             </div>
 
-                                            <div className="form-group">
+                                            <div className="form-group mb-2">
                                                 <p className="text-center">Don't have an account? <a href="#" id="signup">Sign up here</a></p>
                                             </div>
                                         </form>
